@@ -1,2 +1,3 @@
-This project utilizes Kamlam filter to do Channle estimation of time-varying channel.
-Reference: Fundamentals of Statistical Signal Porcessing - Estimation Theory, Example 13.3. Author: Steven M. Kay
+This project utilizes Kalman filter to do Channel estimation of time-varying channel.
+Reference: Fundamentals of Statistical Signal Processing - Estimation Theory, Example 13.3. Author: Steven M. Kay
+
