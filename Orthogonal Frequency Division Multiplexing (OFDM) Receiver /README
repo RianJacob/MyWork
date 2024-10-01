@@ -1,2 +1,2 @@
-This project uses OFDM symbols for channel estimation
-Reference: 
+This project uses OFDM symbols for channel estimation using mean-square criterion 
+Reference: Adaptive Filters, Part VII, Computer Project, Project VII.1, Author: Ali H. Sayed  
