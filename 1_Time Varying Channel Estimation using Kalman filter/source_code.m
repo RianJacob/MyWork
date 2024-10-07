@@ -1,7 +1,7 @@
 clear all
 close all
 
-%Time varying Channel Estimation uisng Kamlam Filter
+%Time varying Channel Estimation uisng Kalman Filter
 
 A = [0.99 0; 0 0.999];
 Q = 0.001 * eye(2);
