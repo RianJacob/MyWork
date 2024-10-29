@@ -47,7 +47,7 @@ y_bar = H*x_bar + v_bar;
 
 y = F*y_bar;
 
-%Q matrix (sunmatrix of F matrix)
+%Q matrix (submatrix of F matrix)
 %Qa used for channel estimation using scheme-a (one entire OFDM symbol)
 Qa = F(1:M,1:N);
 %Qb used for channel estimation using scheme-b (8 tones from each OFDM
