@@ -1,0 +1,11 @@
+We have the following car in inventory:
+2007 BMW with 4 doors and 50000 miles.
+Price: $ 15000.00
+
+We have the folowing truck in inventory:
+2006 Toyota with 4WD drive type and 40000 miles.
+Price: $12000.00
+
+We have the following SUV in inventory:
+2005 Volvo with 30000 miles and 5 passenger capacity.
+Price: $18000.00
