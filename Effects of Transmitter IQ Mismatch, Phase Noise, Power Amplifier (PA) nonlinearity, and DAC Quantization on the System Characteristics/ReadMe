@@ -1,0 +1,3 @@
+In this project, two modulation schemes are considered (4-QAM, 16-QAM).
+In the first part, the impact of IQ imbalance and receiver phase noise on BER performance is studied. 
+In the second part, the impact of non-linear PA and quantization on the transmitted MIMO signal in frequency and angular domain is studied
