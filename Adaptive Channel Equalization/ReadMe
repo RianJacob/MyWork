@@ -1,0 +1,4 @@
+This project simulates the adaptive channel equalization using three different stochastic gradient algorithms: Least Mean Square (LMS), epsilon-Normalized LMS (epsilon-NLMS), and Reursive Least Square (RLS). 
+Please refer to the document for details. 
+
+Ref. Adaptive Filters, Ali Sayed, PartIII - Project 3
