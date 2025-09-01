@@ -177,7 +177,7 @@ comb = conv(c,w);
 [W,~] = freqz(w,1,256);
 % frequency response of combination (convolution) of channel and equalizer 
 [COMB,~] = freqz(comb,1,256);
-%%
+
 figure(2)
 subplot(231)
 plot(0:length(c)-1, c)
